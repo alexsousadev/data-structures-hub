@@ -12,6 +12,7 @@ Sinta-se à vontade para explorar, contribuir e aprender!
 Entendendo como funciona cada estrutura.
 
 - [CS 225 | Notes](https://courses.grainger.illinois.edu/cs225/fa2019/notes/)
+- [João Arthur Brunet | Estruturas de Dados e Algoritmos](https://joaoarthurbm.github.io/eda/conteudo/)
 - [FreeCodeCamp | As principais estruturas de dados que você deve conhecer para sua próxima entrevista de programação](https://www.freecodecamp.org/portuguese/news/as-principais-estruturas-de-dados-que-voce-deve-conhecer-para-sua-proxima-entrevista-de-programacao/)
 
 > 💡 **Dica**: Um livro excelente para entender essas estruturas é o [**Entendendo Algoritmos**](https://www.amazon.com.br/Entendendo-Algoritmos-Ilustrado-Programadores-Curiosos/dp/8575225634). Você pode encontrar esse e outros livros na  [**BibliotecaDev**](https://github.com/KAYOKG/BibliotecaDev), um repositório famoso com materiais de estudo na área de programação.
